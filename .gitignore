@@ -1,0 +1,8 @@
+ManageMeIdentity/obj/
+ManageMeIdentity/bin/
+.idea
+.vscode
+ManageMeIdentity/wwwroot/
+ManageMeIdentity/app.db
+ManageMeIdentity/appsettings.json
+
